@@ -1,0 +1,1374 @@
+[
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": null
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/01/20",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/05/19",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/04/05",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "2020/04/03",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/11/25",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": "",
+    "Date": "2020/01/06",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/04/17",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/10/06",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/03/20",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/02/25",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/01/01",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/04/04",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/14",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/08/21",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/05/16",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/10/29",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": null,
+    "Date": "2020/03/25",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/07/15",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/08/08",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/11/08",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 45,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/10/02",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/04/24",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "2020/03/17",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": null,
+    "Date": "2020/03/19",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/05/27",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "2020/06/06",
+    "Pulse": "abc",
+    "Maxpulse": "",
+    "Calories": 409.1
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "12-01-2020",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 30,
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/06/04",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 30,
+    "Date": "2020/01/18",
+    "Pulse": 120,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": 110,
+    "Maxpulse": "",
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": null,
+    "Date": "2020/03/13",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/03/06",
+    "Pulse": 110,
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": null,
+    "Date": "2020/10/07",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": 60,
+    "Date": "",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 150,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 30,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": 150,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "2020/06/13",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": "",
+    "Date": "2020/03/08",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": ""
+  },
+  {
+    "Duration": 30,
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/09/23",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": null,
+    "Date": "2020/08/03",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": "",
+    "Date": "2020/02/06",
+    "Pulse": 120,
+    "Maxpulse": null,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": null,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": "",
+    "Date": "",
+    "Pulse": "abc",
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": "abc",
+    "Maxpulse": null,
+    "Calories": null
+  },
+  {
+    "Duration": "",
+    "Date": "2020/11/01",
+    "Pulse": 130,
+    "Maxpulse": "",
+    "Calories": 300.5
+  },
+  {
+    "Duration": "",
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "12-01-2020",
+    "Pulse": 130,
+    "Maxpulse": 130,
+    "Calories": 300.5
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/25",
+    "Pulse": "abc",
+    "Maxpulse": 150,
+    "Calories": "four hundred"
+  },
+  {
+    "Duration": 60,
+    "Date": "2020/12/01",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": null
+  },
+  {
+    "Duration": 45,
+    "Date": "2020/12/01",
+    "Pulse": 130,
+    "Maxpulse": 150,
+    "Calories": ""
+  },
+  {
+    "Duration": "",
+    "Date": "2020/06/28",
+    "Pulse": 120,
+    "Maxpulse": "",
+    "Calories": 409.1
+  }
+]
